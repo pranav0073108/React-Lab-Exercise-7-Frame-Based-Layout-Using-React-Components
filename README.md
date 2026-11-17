@@ -1,6 +1,6 @@
 # React-Lab-Exercise-7-Frame-Based-Layout-Using-React-Components
-# Name : Moulishwar G
-# Register Number : 2305001020
+# Name : PRANAV K
+# Register Number : 2305001026
 
 # Aim
 To develop a simple frame-based webpage layout using React components, consisting of a Header, Sidebar, Content area, and Footer.
